@@ -1,2 +1,5 @@
 # Hello-World
-My first try
+Hi!
+
+This is my first try of Github!
+Good luck!
